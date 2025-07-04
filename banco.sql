@@ -16,8 +16,8 @@
 
 
 -- Copiando estrutura do banco de dados para cempresa
-CREATE DATABASE IF NOT EXISTS `cempresa` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */;
-USE `cempresa`;
+CREATE DATABASE IF NOT EXISTS `empresa` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */;
+USE `empresa`;
 
 -- Copiando estrutura para tabela cempresa.funcionario
 CREATE TABLE IF NOT EXISTS `funcionario` (
